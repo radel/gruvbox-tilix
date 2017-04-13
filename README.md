@@ -2,7 +2,7 @@
 
 ## Install
 
-copy json files to your `~/.config/terminix/schemes` directory.
+copy json files to your `~/.config/tilix/schemes` directory.
 
 ## Links
 
